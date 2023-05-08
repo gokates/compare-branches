@@ -1,5 +1,5 @@
 # compare-branches
-Compare two git branches with this Python Flask micro web framework.
+Compare two git branches with this sample Python application on Flask micro web framework.
 
 Currently available features:
 
@@ -54,7 +54,6 @@ http://0.0.0.0/git/scan?tb=release-202201&since=18&an=provungs
 http://0.0.0.0/git/scan?tb=release-202201&an=provun
 http://0.0.0.0/git/scan?tb=release-202212&since=23
 http://0.0.0.0/git/scan?sb=featureBranch&since=18&an=Provungshu
-
 ```
 
 ## Cleaning up Docker things
